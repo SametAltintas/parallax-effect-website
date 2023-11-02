@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#img1{
+    background-image:linear-gradient(rgba(255, 255, 255, .3), rgba(255, 255, 255, .3)), url(./img/bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+#clarusway{
+    background-color: #4C4C4C;
+    font-size: 48px;
+    letter-spacing: 8px;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    padding: 32px;
+    outline: 8px inset #ac6cac;
+    outline-offset: 16px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+#fsd{
+   background-color: rgb(241, 241, 241); 
+   color: #666;
+   text-align: center;
+   padding: 3rem 5rem;
+}
+#fsd-header{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+span{
+    font-weight: bold;
+}
+#fsd-p{
+    font-family: 'Lato', sans-serif;  
+    font-size: 400;
+    line-height: 30px;
+}
+#img2{
+    background-image: url(./img/bg2.jpg);
+    height: 85vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: .7;
+}
+img{
+    width: 30%;
+    margin: 1rem;
+}
+#aws{
+    background-color: #282E34;
+    color: white;
+    text-align: center;
+    padding: 48px 80px;
+}
+#aws-header{
+    margin-block-end: 19.92px;
+    margin-block-start: 19.92px;
+    font-family: 'Lato', sans-serif;
+    font-size: 400;
+}
+#aws-p{
+    font-family: 'Lato', sans-serif;  
+    font-size: 400;
+    line-height: 30px;
+}
+#img3{
+    background-image: url(./img/bg3.jpg);
+    height: 85vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: .7;
+}
+#img3-header{
+    background-color: black;
+    font-size: 48px;
+    letter-spacing: 8px;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    padding: 20px;
+    outline: 8px inset #ac6cac;
+    outline-offset: 16px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+#data{
+    background-color: rgb(241, 241, 241); 
+    color: #666;
+    text-align: center;
+    padding: 3rem 5rem;
+}
+#data-header{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+}
+#data-p{
+    font-family: 'Lato', sans-serif;  
+    font-size: 400;
+    line-height: 30px;
+}
+#img4{
+    background-image: url(./img/bg4.jpg);
+    height: 85vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    opacity: .7;
+}
+#img4-header{
+    background-color: black;
+    font-size: 48px;
+    letter-spacing: 8px;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    padding: 20px;
+    outline: 8px inset #ac6cac;
+    outline-offset: 16px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
+#why{
+    background-color: #282E34;
+    color: white;
+    text-align: center;
+    padding: 48px 80px;
+}
+#why-header{
+    margin-block-end: 19.92px;
+    margin-block-start: 19.92px;
+    font-family: 'Lato', sans-serif;
+    font-size: 400;
+}
+#why-p{
+    font-family: 'Lato', sans-serif;  
+    font-size: 400;
+    line-height: 30px;
+}
+#img5{
+    background-image:linear-gradient(rgba(255, 255, 255, .3), rgba(255, 255, 255, .3)), url(./img/bg.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#img5-header{
+    background-color: #4C4C4C;
+    font-size: 48px;
+    letter-spacing: 8px;
+    border-top-left-radius: 32px;
+    border-bottom-right-radius: 32px;
+    padding: 32px;
+    outline: 8px inset #ac6cac;
+    outline-offset: 16px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Lato', sans-serif;
+}
